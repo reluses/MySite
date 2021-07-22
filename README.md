@@ -2,7 +2,7 @@
 # Cómo crear bloques de código?
 
 ```freefem 
-f = mesh
+ofstream file("file.txt", append);
 ```
 
 
