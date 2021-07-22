@@ -1,7 +1,7 @@
 # MySite
 # Cómo crear bloques de código?
 
-```c++ 
+```ruby 
 ofstream file("file.txt", append);
 ```
 
