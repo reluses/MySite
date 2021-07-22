@@ -1,7 +1,7 @@
 # MySite
 # Cómo crear bloques de código?
 
-```freefem 
+```c++ 
 ofstream file("file.txt", append);
 ```
 
