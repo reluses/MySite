@@ -3,6 +3,7 @@
 
 ```ruby 
 ofstream file("file.txt", append);
+real[4] A
 ```
 
 
